@@ -1,6 +1,6 @@
 # README Boilerplate
 
-A game of Tic-Tac-Toe written in Go.
+A go program that finds the area of regular polygons
 
 ## Installation
 
