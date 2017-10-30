@@ -1,4 +1,4 @@
-# README Boilerplate
+# Reg-Area
 
 A go program that finds the area of regular polygons
 
