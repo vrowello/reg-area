@@ -6,8 +6,8 @@ A go program that finds the area of regular polygons
 
 ```sh
 cd /your/go/workspace/src
-git clone https://github.com/vrowello/reg-area
-cd reg-area
+go get github.com/vrowello/reg-area
+cd github.com/vrowello/reg-area
 go install
 ```
 
